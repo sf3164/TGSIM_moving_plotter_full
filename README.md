@@ -18,7 +18,7 @@ This repository contains a Python-based interactive GUI tool for plotting vehicl
 
 ## Example Output
 
-The tool produces an HTML file (`Stationary_Full_Plot.html`) displaying the interactive plot.
+The tool produces an HTML file (`Moving_Full_Plot.html`) displaying the interactive plot.
 <img width="825" alt="Screenshot 2025-04-16 at 4 17 22 PM" src="https://github.com/user-attachments/assets/9ad0c52a-0ffd-4f7b-84f8-e0451336c260" />
 
 ## File Structure
